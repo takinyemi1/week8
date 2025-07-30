@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: #2b4981dd;
+}
+
+.crewmates-img {
+  width: 50%;
+  height: auto;
+}
+
+.spaceship-img {
+  width: 50%;
+  height: auto;
+}

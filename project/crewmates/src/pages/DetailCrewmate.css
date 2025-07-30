@@ -1,0 +1,20 @@
+h2 {
+    border-bottom: solid 3px rgb(162, 67, 218);
+}
+
+.stat-title {
+    border-bottom: solid 3px rgb(67, 218, 210);
+}
+
+.edit-btn {
+    background-color: #60c054;
+}
+
+.edit-btn:hover {
+    color: #b42626;
+}
+
+.crewmates-img {
+    width: 50%;
+    height: auto;
+}

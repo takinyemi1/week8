@@ -1,0 +1,72 @@
+.action-btns {
+    display: flex;
+    /* gap: 10px; */
+}
+
+.update-btn {
+    background-color: #3fb653;
+    padding: 16px 20px;
+    margin: auto;
+}
+
+.delete-btn {
+    background-color: #b41515;
+    padding: 16px 20px;
+    margin: auto;
+}
+
+.form-container {
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #9a7ddddd;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    border-radius: 8px;
+    font-size: 30px;
+    height: auto;
+    padding: 20px 24px;
+}
+
+label {
+    border-bottom: solid 3px rgb(97, 12, 146);
+    margin-bottom: 20px;
+}
+
+.whole-page {
+    margin: auto;
+}
+
+input {
+    width: 50%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 12px;
+    align-items: center;
+    margin: auto;
+    padding: 20px 24px;
+}
+
+.input-container li {
+    list-style: none;
+    list-style-type: none;
+    text-decoration: none;
+    margin-left: 0;
+    padding-left: 0;
+    padding-right: 20%;
+    /* margin: auto; */
+    text-align: center;
+    align-items: center;
+}
+
+.gen-crewmate-img {
+    width: 50%;
+    height: auto;
+}

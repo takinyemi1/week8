@@ -1,0 +1,10 @@
+.create-btn {
+    background-color: #b2eb85;
+    padding: 16px 20px;
+    border-radius: 8px;
+    color: rgb(12, 105, 74);
+}
+
+.create-btn:hover {
+    color: #112403;
+}
